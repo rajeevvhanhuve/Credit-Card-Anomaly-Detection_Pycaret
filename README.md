@@ -8,12 +8,12 @@ The dataset used in this project is the Credit Card Fraud Detection [dataset](ht
 **Installation:**<BR>
 To run this project, you will need to have Python 3 installed, along with the following libraries:
 
-PyCaret
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+PyCaret<BR>
+pandas<BR>
+numpy<BR>
+matplotlib<BR>
+seaborn<BR>
+scikit-learn<BR>
 For more info- https://pycaret.org/
 
 **Result:**<BR>
