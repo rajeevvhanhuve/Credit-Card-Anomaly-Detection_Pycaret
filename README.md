@@ -17,4 +17,4 @@ scikit-learn<BR>
 For more info- https://pycaret.org/
 
 **Result:**<BR>
-The results of this project show that machine learning algorithms can effectively identify fraudulent transactions in a credit card dataset, even in the presence of imbalanced classes. The best-performing algorithm was the Isolation Forest algorithm, which achieved an AUC score of 0.94 and a recall score of 0.78.
+The results of this project show that machine learning algorithms can effectively identify fraudulent transactions in a credit card dataset, even in the presence of imbalanced classes. The best-performing algorithm was the Random Forest algorithm, which achieved an AUC score of 0.9379 and a recall score of 0.7625.
